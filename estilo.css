@@ -1,7 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
 :root{
     --cor-de-fundo:#660303;
     --cor-de-texto:#FFFFFF;
     --fundo-senha:#000000;
     --fundo-texto:#000000;
     --borda:#FF0000;
+    --tipo-fonte: "Bebas Neue", sans-serif;
+}
+
+*{
+  font-weight: 400;
+  
+}
+
+   body{
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-de-texto);
+    font-family: var(--tipo-fonte);
+   }
+
+   .titulo-principal{
+    font-weight: 700px;
+   }
+
+   .titulo-secundario{
+    font-size:24px;
+   }
+   .conteudo-titulo{
+    text-align: center;
+    margin-top: 80px;
+   }
+:root{
+    --cor-de-fundo:#660303;
+    --cor-de-texto:#FFFFFF;
+    --fundo-senha:#000000;
+    --fundo-texto:#000000;
+    --borda:#FF0000;
+}
+.parametro{
+    background-color: var(--fundo-texto);
+    border: 2px solid var(--borda);
+    margin-top: 32px;
+    padding: 24px;
 }
