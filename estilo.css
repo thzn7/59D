@@ -38,3 +38,29 @@
     margin-top: 32px;
     padding: 24px;
 }
+.parametro-titulo{
+    font-family: var();
+    font-size: 38px;
+}
+.parametro-senha__titulo{
+    font-size: 24px;
+}
+.parametro-coluna__senha{
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.parametro-senha{
+    width: 50%;
+    margin: 0 auto;
+ }
+.parametro-senha-botoes{
+    display: flex;
+    justify-content: center;
+}
+.parametro-enha___botao{
+    background-color: var(--fundo-texto);
+}
+@media screen and (min-whidth: 768px){
+    
+}
