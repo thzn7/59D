@@ -31,14 +31,7 @@
    .conteudo-titulo{
     text-align: center;
     margin-top: 80px;
-   }
-:root{
-    --cor-de-fundo:#660303;
-    --cor-de-texto:#FFFFFF;
-    --fundo-senha:#000000;
-    --fundo-texto:#000000;
-    --borda:#FF0000;
-}
+   };
 .parametro{
     background-color: var(--fundo-texto);
     border: 2px solid var(--borda);
