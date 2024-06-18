@@ -81,12 +81,12 @@ justify-content: center;
 .parametro-enha___botao{
     background-color: var(--fundo-texto);
 }
-.parametro-coluna-senha{
+.parametro--coluna-senha{
     flex-direction: column;
     justify-content: center;
 }
 @media screen and (min-whidth: 768px){
-    .parametro-coluna-senha{
+    .parametro--coluna-senha{
         flex-direction: row;
     }
 }
