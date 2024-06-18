@@ -44,9 +44,17 @@
     color: var(--cor-de-texto);
     font-size: 40px;
     margin-left: 20px;
+    width: 70%;
 }
 #campo-senha:focus{
 outline: none;
+}
+.titulo{
+    font-weight: "Open Sans", sans-serif;
+}
+.rng-senha{
+    background-color: var(--fundo-texto);
+    text-align: center;
 }
 .conteudo{
     max-width: 1200px;
