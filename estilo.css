@@ -2,11 +2,11 @@
 
 
 :root{
-    --cor-de-fundo:#00000065;
-    --cor-de-texto:#610095;
+    --cor-de-fundo:#db0000;
+    --cor-de-texto:#ffffff;
     --fundo-senha:#000000;
     --fundo-texto:#000000;
-    --borda:#d600cf;
+    --borda:#000000;
     --tipo-fonte: "Bebas Neue", sans-serif;
 }
 
